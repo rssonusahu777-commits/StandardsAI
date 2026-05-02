@@ -1,0 +1,37 @@
+[
+  {
+    "standard": "IS 269",
+    "category": "cement",
+    "text": "Ordinary Portland cement used in general structural construction including 33, 43, and 53 grades."
+  },
+  {
+    "standard": "IS 8112",
+    "category": "cement",
+    "text": "43 grade ordinary Portland cement suitable for structural applications."
+  },
+  {
+    "standard": "IS 456",
+    "category": "cement",
+    "text": "Code of practice for plain and reinforced concrete including materials, mix design, and construction methods."
+  },
+  {
+    "standard": "IS 1786",
+    "category": "steel",
+    "text": "High strength deformed steel bars and wires used for reinforcement in concrete structures."
+  },
+  {
+    "standard": "IS 2062",
+    "category": "steel",
+    "text": "Hot rolled structural steel used for plates, angles, and sections in construction."
+  },
+  {
+    "standard": "IS 383",
+    "category": "aggregates",
+    "text": "Coarse and fine aggregates from natural sources used in concrete production."
+  },
+  {
+    "standard": "IS 2386",
+    "category": "aggregates",
+    "text": "Testing methods for aggregates including size, shape, and strength properties."
+  }
+]
